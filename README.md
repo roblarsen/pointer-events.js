@@ -1,5 +1,7 @@
 ## Learn the tech
 
+This repo was deprecated by the Polymer team. I've pulled it back from the brink in the hopes that it, and Pointer Events can make a comeback. 
+
 ### Why Pointer Events?
 
 Mouse events and Touch events are fundamentally different beasts in browsers
